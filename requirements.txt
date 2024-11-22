@@ -1,0 +1,9 @@
+opencv-python
+tensorflow==2.15.0
+pandas
+seaborn
+librosa
+matplotlib
+scikit-learn
+tensorflow-hub
+
